@@ -1,0 +1,30 @@
+{
+  "results": [
+    {
+      "location": {
+        "street": {
+          "number": 3532,
+          "name": "Westheimer Rd"
+        },
+        "city": "Coffs Harbour",
+        "state": "Northern Territory",
+        "country": "Australia",
+        "postcode": 3729,
+        "coordinates": {
+          "latitude": "-88.7953",
+          "longitude": "-179.6169"
+        },
+        "timezone": {
+          "offset": "+2:00",
+          "description": "Kaliningrad, South Africa"
+        }
+      }
+    }
+  ],
+  "info": {
+    "seed": "a6e50679f838783a",
+    "results": 1,
+    "page": 1,
+    "version": "1.3"
+  }
+}
